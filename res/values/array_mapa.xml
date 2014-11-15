@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_mapa">
+        
+        <item>Inicio</item>
+        <item>Guia Virtual</item>
+        <item>Acerca de</item>
+        <item>Salir</item>
+    </string-array>
+
+</resources>

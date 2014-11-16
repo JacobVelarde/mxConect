@@ -12,7 +12,6 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="18" />
-    
     <permission
         android:name="org.mxitz.mxconectado"
         android:protectionLevel="signature">
